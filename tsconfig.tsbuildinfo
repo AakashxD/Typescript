@@ -1,1 +1,1 @@
-{"root":["./functions.ts","./hello.ts","./tstutorial.ts"],"version":"5.7.2"}
+{"root":["./src/object.ts","./src/userinfo.ts","./src/closurefun.ts","./src/functions.ts","./src/hello.ts","./src/map.ts","./src/tstutorial.ts"],"version":"5.7.2"}

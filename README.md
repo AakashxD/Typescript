@@ -1,0 +1,3 @@
+- in ts compile time check happens
+- Zod is for runtime type checks(99%)
+- prototype
